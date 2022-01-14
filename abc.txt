@@ -1,0 +1,2 @@
+now the time is %time%
+now the time is 10:51
